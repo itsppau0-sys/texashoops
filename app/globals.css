@@ -1,0 +1,3 @@
+@tailwind base;@tailwind components;@tailwind utilities;
+body{@apply bg-ink text-white antialiased}
+input,select,textarea{@apply bg-navy border border-white/20 rounded px-2 py-2 text-white}
